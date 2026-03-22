@@ -2,7 +2,7 @@
 
 > A RAG-powered AI agent that helps people in underserved communities find free, local support resources — with built-in safety guardrails for crisis situations.
 
-**Live demo:** [your-app.streamlit.app](https://streamlit.io) *(deploy and update this link)*
+**Live demo:** [your-app.streamlit.app]([https://streamlit.io](https://remotehlthresources.streamlit.app/)
 
 ---
 
