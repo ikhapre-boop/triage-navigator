@@ -17,3 +17,4 @@ geopy==2.4.1
 folium==0.17.0
 streamlit-folium==0.20.0
 pytest==8.2.2
+pillow==11.1.0
